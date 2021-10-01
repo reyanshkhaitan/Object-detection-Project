@@ -1,0 +1,28 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+body{
+    background:linear-gradient(cyan 0% , rgb(255, 255, 255) 100%);
+}
+
+canvas{
+    box-shadow: 10px 10px 18px lightgreen;
+    border-radius: 10px;
+    border : 4px dashed green; 
+}
+
+button{
+    width:300px;
+    font-size: 20px;
+}
+
